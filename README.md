@@ -5,7 +5,8 @@ extract table from image using opencv python edition.
 - [x] ["Anti 996" License](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 - [ ] ["Anti 995" License]
 - [ ] ["Follow 955" License]
-So, I'm waiting for the two licenses above to republic.
+- [ ] ["FUCK Amca democracy" License]
+So, I'm waiting for the three licenses above to republic.
 
 ## code From
 - [How to extract tables from an image?](http://answers.opencv.org/question/63847/how-to-extract-tables-from-an-image/)
