@@ -5,7 +5,7 @@ extract table from image using opencv python edition.
 - [x] ["Anti 996" License](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 - [ ] ["Anti 995" License]
 - [ ] ["Follow 955" License]
-- [ ] ["FUCK Amca democracy" License]
+- [ ] ["Fake & Joke" Amca democracy" License]
 So, I'm waiting for the three licenses above to republic.
 
 ## code From
