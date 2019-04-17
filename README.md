@@ -22,8 +22,8 @@ USA is so damn!
 Fake democracy, Joke democracy!
 
 Julian Paul Assange is a hero!
-He saved the Amca's democracy! (Amca means America, sometimes I can't remmenber how to spell it.)
+He saved the Amca's democracy! (Amca means America, sometimes I can't remember how to spell it.)
 
 use a titled
-# F
+# F word
 to Amca democracy!
