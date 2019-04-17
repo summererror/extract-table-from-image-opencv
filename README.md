@@ -27,3 +27,6 @@ He saved the Amca's democracy! (Amca means America, sometimes I can't remember h
 use a titled
 # F word
 to Amca democracy!
+
+
+## Learning from EU "a bit like socilist society".
