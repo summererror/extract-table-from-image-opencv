@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # License: Anti-996, Anti-995, Follow-955 (ignore if the license is not exist)
-# recommand using miniconda
+# miniconda is recommanded
 # conda install pillow numpy opencv -c conda-forge -y
 from __future__ import print_function
 
